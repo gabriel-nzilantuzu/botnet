@@ -1,1 +1,3 @@
-Botnet template
+# botnet-group
+
+Botnet Template
